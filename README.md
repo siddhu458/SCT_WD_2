@@ -9,7 +9,7 @@ Lap Functionality: Record lap times while the stopwatch is running.
 Reset: Bring the stopwatch back to zero.
 Getting Started
 Clone this repository:
-git clone https://github.com/siddhu458/stopwatch.git
+git clone https://github.com/siddhu458/SCT_WD_2.git
 cd stopwatch
 
 cd stopwatch
